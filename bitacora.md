@@ -1,0 +1,1 @@
+- 2026-11-08 (Montserrat): instalé git, curl, nvm, Node LTS y VS Code (con Live Server y Prettier). Configuré Git con mi nombre real y el email noreply. Limpié mi cuenta de GitHub y quedó como franco-peregrino. Armé y probé la clave SSH. Sigue: crear el repo del portfolio, clonarlo, bitácora y primer commit.
