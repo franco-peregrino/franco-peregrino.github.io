@@ -1,1 +1,1 @@
-console.log("En vivo y en directo desde la Pink Chamber!");
+console.log("Primera comiteada vivo y en directo desde la Pink Chamber!");
